@@ -283,6 +283,17 @@ print(predictor.false_negatives())
 
 ---
 
+## Ce projet démontre
+
+- La maîtrise du **Pipeline sklearn** (`StandardScaler + Classifier`) pour éliminer le data leakage et industrialiser la chaîne d'entraînement
+- La **comparaison rigoureuse de 3 modèles** (Logistic Regression, Random Forest, Gradient Boosting) avec validation croisée stratifiée 5-fold
+- Le choix de l'**AUC ROC comme métrique principale** sur un problème déséquilibré — et la démonstration de pourquoi l'accuracy est trompeuse
+- L'**analyse des faux négatifs** : profiler les churners non détectés pour comprendre les limites du modèle et les améliorer
+- La traduction des **feature importances en recommandations métier** : quoi offrir à un client dont le signal est un solde nul ou une inactivité
+- Un pipeline **réutilisable sur tout problème de rétention** : banque, assurance, télécoms, SaaS — adapter les colonnes et les données
+
+---
+
 ## 13. Contributors
 
 | Nom | Rôle | GitHub |
@@ -293,5 +304,5 @@ print(predictor.false_negatives())
 
 *Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*
 *Formation : DataScientest | Domaines : Finance · Banque · Énergie · Commerce*
-*Contact : emmatsague@yahoo.fr*
+*Contact : emmatsague@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/emmanuel-tsague-114295414)*
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
