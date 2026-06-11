@@ -478,5 +478,5 @@ DBSCAN quand les clusters ont des formes irrégulières ou quand on a des outlie
 
 *Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*  
 *Formation : DataScientest | Domaines : Finance · Banque · Energie · Commerce*  
-*Contact : emmoi.mtn@gmail.com*  
+*Contact : emmatsague@yahoo.fr*  
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
