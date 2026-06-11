@@ -1,4 +1,4 @@
-# Prédiction du Churn Bancaire
+﻿# Prédiction du Churn Bancaire
 
 > **Identifier les clients à risque de départ avec XGBoost et SHAP**
 
@@ -114,9 +114,9 @@ API FastAPI pour scoring temps réel. Monitoring drift. Réentraînement automat
 
 ---
 
-## Auteur
+## Contributors
 
-**Emmanuel TSAGUE** — Data Scientist / Data Analyst
+**TSAGUE Emmanuel** — Data Scientist / Data Analyst
 Domaine : Banque · Classification · Machine Learning · XAI
 GitHub : [TSAGUE25](https://github.com/TSAGUE25)
 
