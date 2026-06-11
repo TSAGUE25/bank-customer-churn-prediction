@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction
+﻿# Bank Customer Churn Prediction
 
 > Prédiction du churn bancaire par Machine Learning : Logistic Regression, Random Forest et Gradient Boosting, comparés par AUC ROC, avec analyse des variables prédictives et recommandations de rétention.  
 > **Stack :** Python · scikit-learn · pandas · matplotlib · seaborn
@@ -466,6 +466,13 @@ DBSCAN quand les clusters ont des formes irrégulières ou quand on a des outlie
 | Customer Segmentation | [customer-marketing-segmentation](https://github.com/TSAGUE25/customer-marketing-segmentation) |
 | Data Quality Audit | [data-quality-audit-framework](https://github.com/TSAGUE25/data-quality-audit-framework) |
 | Building Energy Analytics | [building-energy-efficiency-analytics](https://github.com/TSAGUE25/building-energy-efficiency-analytics) |
+
+
+## Contributors
+
+| Nom | Role | GitHub |
+|-----|------|--------|
+| **TSAGUE Emmanuel** | Data Scientist - auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
 
 ---
 
